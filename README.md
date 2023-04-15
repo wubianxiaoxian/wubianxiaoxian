@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @wubianxiaoxian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href="https://github.com/wubianxiaoxian">
 
-<!---
-wubianxiaoxian/wubianxiaoxian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=wubianxiaoxian&column=7&theme=onedark"/>
+  </p>
+
+</a>
+
+<a href="#">
+  <img align="right" src="https://metrics.lecoq.io/wubianxiaoxian?template=terminal" />
+</a>
+
+# wubianxiaoxian 🌝
+
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=wubianxiaoxian&theme=vue-dark&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wubianxiaoxian&theme=vue-dark&layout=compact">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=wubianxiaoxian&repo=my-now-blog&theme=dark">
