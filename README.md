@@ -6,11 +6,7 @@
 
 </a>
 
-<a href="#">
-  <img align="right" src="https://metrics.lecoq.io/wubianxiaoxian?template=terminal" />
-</a>
-
-# wubianxiaoxian 🌝
+# wubianxiaoxian 😄
 
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=wubianxiaoxian&theme=vue-dark&count_private=true&show_icons=true">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wubianxiaoxian&theme=vue-dark&layout=compact">
